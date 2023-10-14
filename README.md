@@ -1,0 +1,1 @@
+Este é um projeto de exemplo que demonstra o uso do framework de teste xUnit, bem como a aplicação dos métodos Arrange, Act, Assert (AAA) e Test-Driven Development (TDD). Este projeto foi desenvolvido seguindo as melhores práticas de desenvolvimento de software, incluindo a criação de testes antes da implementação do código.
